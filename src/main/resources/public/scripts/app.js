@@ -2,7 +2,7 @@
  * Created by shekhargulati on 10/06/14.
  */
 
-var app = angular.module('todoapp', [
+var app = angular.module('astroapp', [
     'ngCookies',
     'ngResource',
     'ngSanitize',
